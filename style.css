@@ -1,0 +1,54 @@
+body {
+    background-color:rgba(38, 78, 202, 1);
+    font-family: "Roboto", sans-serif;
+  }
+.amg{
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 120px;
+  font-size: 28px;
+  font-weight: 600;
+}
+  .card {
+    padding: 20px;
+    border-radius: 8px;
+  }
+  .input-field input {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  .input-field label {
+    font-size: 14px;
+    color: #757575;
+  }
+  .input-field .toggle-password {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  .forgot-password {
+    font-size: 12px;
+    color: #757575;
+    margin-top: 5px;
+    display: block;
+  }
+  .btn {
+    background-color: #0033cc;
+    width: 100%;
+    text-transform: none;
+    margin-top: 20px;
+  
+  }
+  
+  .btn:hover {
+    background-color: purple;
+    transition: 0.3s;
+  
+
+
+
+}
